@@ -7,7 +7,8 @@
 
 ## 図3
 (a) <img src="./figs/fig03a.gif" width="50%" height="50%"></img>
-(b) <img src="./figs/fig03b.gif" width="50%" height="50%"></img>
+
+(b) <img src="./figs/fig03b.gif" width="40%" height="40%"></img>
 
 ## 図4
 (a) <img src="./figs/fig04a.gif" width="50%" height="50%"></img>
