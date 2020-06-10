@@ -3,7 +3,7 @@
 以下にスライド中で使用したアニメーションを示します.
 
 ## 図1
-<img src="./figs/fig01.gif"></img>
+<img src="./figs/fig01.gif" width="50%" height="50%"></img>
 
 ## 図3
 (a) <img src="./figs/fig03a.gif"></img>
