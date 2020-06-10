@@ -3,8 +3,12 @@
 以下にスライド中で使用したアニメーションを示します.
 
 ## 図1
+<img src="./figs/fig01.gif"></img>
 
 ## 図3
+(a) <img src="./figs/fig03a.gif"></img>
+
+(b) <img src="./figs/fig03b.gif"></img>
 
 ## 図4
 
