@@ -5,10 +5,12 @@
 ## 図1
 <img src="./figs/fig01.gif" width="50%" height="50%"></img>
 
-## 図3
-(a) <img src="./figs/fig03a.gif" width="50%" height="50%"></img>
+## 図3 電界ベクトルが楕円を描く様子
+### (a) 3次元空間での表示
+<img src="./figs/fig03a.gif" width="50%" height="50%"></img>
 
-(b) <img src="./figs/fig03b.gif" width="40%" height="40%"></img>
+### (b) <it>yz</it>面での表示
+<img src="./figs/fig03b.gif" width="40%" height="40%"></img>
 
 ## 図4
 <img src="./figs/fig04a.gif" width="50%" height="50%"></img>
