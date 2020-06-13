@@ -1,5 +1,3 @@
-import os
-import sys
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
@@ -15,7 +13,7 @@ def start(f, df, k1, k2, dt):
         xmin = 0
         xmax = 40*np.pi
         x = np.arange(xmin, xmax, dx)
-        t = n%(1/(df*dt)) * dt
+        t = n%200 * dt
 
         offset = np.array([1, -1, -3, 1])
         y = []
@@ -38,8 +36,6 @@ def start(f, df, k1, k2, dt):
 
     fig = plt.figure(figsize = (6,3))
     ani = animation.FuncAnimation(fig, update, interval = 20, save_count=int(1/(df*dt)))
-    file_name = os.path.basename(sys.argv[0]).split('.')[0] + '.gif'
-    ani.save(file_name, writer='imagemagick')
     plt.show()
 
 
