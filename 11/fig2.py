@@ -10,16 +10,16 @@ if __name__ == '__main__':
     # --- ここから ---
     
     # 入射角（単位は度, 0 < theta_i < 90）
-    theta_i_deg = 35.34
+    theta_i_deg = 63.43
 
     # 偏波：'TE' = TE波, 'TM' = TM波
     polarization = 'TM'
 
     # 媒質1の屈折率
-    n1 = 1.41
+    n1 = 1
 
     # 媒質2の屈折率
-    n2 = 1
+    n2 = 2
 
     # --- ここまで ---
 
